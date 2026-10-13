@@ -24,7 +24,7 @@ python delete\_book.py
 
 \#\# File Format  
 Books are stored in \`books.txt\` with the format:  
-\`\`\`  
+\`\`\`
 Title, Author, Year  
 \`\`\`
 
@@ -32,4 +32,5 @@ Title, Author, Year
 \`\`\`  
 1984, George Orwell, 1949  
 To Kill a Mockingbird, Harper Lee, 1960  
+Calculus For Dummies, Mark Ryan, 2016
 \`\`\`
